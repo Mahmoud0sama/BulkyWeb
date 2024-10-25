@@ -528,3 +528,5 @@ C:\Users\mtsid\source\repos\BulkyWeb\BulkyWeb\obj\Debug\net8.0\refint\BulkyWeb.d
 C:\Users\mtsid\source\repos\BulkyWeb\BulkyWeb\obj\Debug\net8.0\BulkyWeb.pdb
 C:\Users\mtsid\source\repos\BulkyWeb\BulkyWeb\obj\Debug\net8.0\BulkyWeb.genruntimeconfig.cache
 C:\Users\mtsid\source\repos\BulkyWeb\BulkyWeb\obj\Debug\net8.0\ref\BulkyWeb.dll
+C:\Users\mtsid\source\repos\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.sourcelink.json
+C:\Users\mtsid\source\repos\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cs

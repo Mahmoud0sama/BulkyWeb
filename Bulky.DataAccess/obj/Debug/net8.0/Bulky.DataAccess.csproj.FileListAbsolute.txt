@@ -36,3 +36,4 @@ C:\Users\mtsid\source\repos\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\refint\Bu
 C:\Users\mtsid\source\repos\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
 C:\Users\mtsid\source\repos\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.genruntimeconfig.cache
 C:\Users\mtsid\source\repos\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
+C:\Users\mtsid\source\repos\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.sourcelink.json

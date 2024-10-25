@@ -1504,7 +1504,10 @@
         },
         "runtime": {
           "bin/placeholder/Bulky.Models.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Bulky.Utility/1.0.0": {
         "type": "project",

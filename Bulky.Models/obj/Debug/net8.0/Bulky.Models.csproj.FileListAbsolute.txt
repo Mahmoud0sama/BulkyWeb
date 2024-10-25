@@ -20,3 +20,4 @@ C:\Users\mtsid\source\repos\BulkyWeb\Bulky.Models\obj\Debug\net8.0\Bulky.Models.
 C:\Users\mtsid\source\repos\BulkyWeb\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
 C:\Users\mtsid\source\repos\BulkyWeb\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
 C:\Users\mtsid\source\repos\BulkyWeb\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+C:\Users\mtsid\source\repos\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.sourcelink.json
