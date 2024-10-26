@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kzA8HoZGvEiAKgEBa61SNkHuaZ/KTXPGnypRI3qs5Ag=",
+  "Hash": "zBZUVYxs0f8blhN+2wSN4aW288vgnfhqGgC7zJgn07E=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -131,12 +131,12 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\2f170672-2bc2-42cf-9b7a-db94f44f4d8e.jpg"
     },
     {
-      "Identity": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\61a46362-b11c-4e02-9cf8-a7ca6404afd0.png",
+      "Identity": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\66daf059-28aa-4d95-9718-d6d52210752c.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/product/61a46362-b11c-4e02-9cf8-a7ca6404afd0.png",
+      "RelativePath": "images/product/66daf059-28aa-4d95-9718-d6d52210752c.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\61a46362-b11c-4e02-9cf8-a7ca6404afd0.png"
+      "OriginalItemSpec": "wwwroot\\images\\product\\66daf059-28aa-4d95-9718-d6d52210752c.jpg"
     },
     {
       "Identity": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\7d370ed3-d483-48a8-b3ea-aeec2454a7a7.jpg",
@@ -169,25 +169,6 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\7d370ed3-d483-48a8-b3ea-aeec2454a7a7.jpg"
     },
     {
-      "Identity": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9b7f35f2-f9a1-437a-9b8d-7d117c21df94.png",
-      "SourceId": "BulkyWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\",
-      "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/product/9b7f35f2-f9a1-437a-9b8d-7d117c21df94.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\9b7f35f2-f9a1-437a-9b8d-7d117c21df94.png"
-    },
-    {
       "Identity": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9f70d516-6bba-4876-957e-f8b4d04d2363.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
@@ -205,25 +186,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\9f70d516-6bba-4876-957e-f8b4d04d2363.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\b88bafce-d190-41da-a869-f25c54b4d719.jpg",
-      "SourceId": "BulkyWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\",
-      "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/product/b88bafce-d190-41da-a869-f25c54b4d719.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\b88bafce-d190-41da-a869-f25c54b4d719.jpg"
     },
     {
       "Identity": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\ead16510-6953-40ba-9cc8-f9b0467179b1.jpg",
