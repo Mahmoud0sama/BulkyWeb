@@ -21,3 +21,4 @@ C:\Users\mtsid\source\repos\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\refint\Bulky
 C:\Users\mtsid\source\repos\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
 C:\Users\mtsid\source\repos\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
 C:\Users\mtsid\source\repos\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.sourcelink.json
+C:\Users\mtsid\source\repos\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
