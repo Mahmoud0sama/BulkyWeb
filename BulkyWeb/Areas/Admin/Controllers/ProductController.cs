@@ -14,7 +14,7 @@ using System.Collections.Generic;
 namespace BulkyWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = SD.Role_Admin)]
+    //[Authorize(Roles = SD.Role_Admin)]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
@@ -88,14 +88,15 @@ namespace BulkyWeb.Areas.Admin.Controllers
                 if (productVM.Product.Id == 0)
                 {
 					_unitOfWork.Product.Add(productVM.Product);
-				}
+                    TempData["success"] = "Product Created Successfully";
+                }
                 else
                 {
 					_unitOfWork.Product.Update(productVM.Product);
-				}
+                    TempData["success"] = "Product Updated Successfully";
+                }
                 
                 _unitOfWork.Save();
-                TempData["success"] = "Product Created Successfully";
                 return RedirectToAction("Index");
             }
             else
@@ -136,7 +137,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
             }
             _unitOfWork.Product.Remove(productToBeDeleted);
             _unitOfWork.Save();
-           
+
             return Json(new { success = true, massege="Delete Successful" });
         }
         #endregion

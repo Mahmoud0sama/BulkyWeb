@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mtsid\\source\\repos\\Bulky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0701D273-C1E4-41FF-A4F3-F480CF10F06C}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\mtsid\\source\\repos\\bulky\\bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0701D273-C1E4-41FF-A4F3-F480CF10F06C}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0701D273-C1E4-41FF-A4F3-F480CF10F06C}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\mtsid\\source\\repos\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0701D273-C1E4-41FF-A4F3-F480CF10F06C}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948FA4CD-447E-47E0-AE6D-7FC9C0B9298D}|Bulky.Utility\\Bulky.Utility.csproj|c:\\users\\mtsid\\source\\repos\\bulky\\bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948FA4CD-447E-47E0-AE6D-7FC9C0B9298D}|Bulky.Utility\\Bulky.Utility.csproj|solutionrelative:bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\Program.cs",
-              "RelativeDocumentMoniker": "BulkyWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\Program.cs",
-              "RelativeToolTip": "BulkyWeb\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAB+AAAA",
+              "DocumentIndex": 1,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "Bulky.Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.Utility\\SD.cs",
+              "RelativeToolTip": "Bulky.Utility\\SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T17:53:07.239Z",
+              "WhenOpened": "2024-10-29T12:01:01.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAYwK4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:10:00.436Z",
               "EditorCaption": ""
             }
           ]

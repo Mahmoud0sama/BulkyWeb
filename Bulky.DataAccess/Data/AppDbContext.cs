@@ -15,6 +15,8 @@ namespace BulkyWeb.DataAccess.Data
 
         public DbSet<Product> Products { get; set; }
 
+        public DbSet<Company> Companies { get; set; }
+
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -25,13 +27,48 @@ namespace BulkyWeb.DataAccess.Data
                 new Category { Id = 2, Name = "Scifi", DisplayOrder = 2 },
                 new Category { Id = 3, Name = "History", DisplayOrder = 3 }
             );
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<Company>().HasData(
+                new Company {
+                    Id = 1,
+                    Name = "Tech Solution",
+                    StreetAddress = "123 Tech st",
+                    City = "Tech City",
+                    PostalCode = "12345",
+                    State = "Il",
+                    PhoneNumber = "1222345678"
+
+                },
+                new Company
+                {
+                    Id = 2,
+                    Name = "Vivid",
+                    StreetAddress = "99 Vivid st",
+                    City = "Vid City",
+                    PostalCode = "55555",
+                    State = "Il",
+                    PhoneNumber = "5566778899"
+
+                },
+                new Company
+                {
+                    Id = 3,
+                    Name = "Readers Club",
+                    StreetAddress = "999 Main st",
+                    City = "L City",
+                    PostalCode = "99999",
+                    State = "ny",
+                    PhoneNumber = "6669990000"
+
+                }
+            );
             modelBuilder.Entity<Product>().HasData(
                 new Product
                 {
                     Id = 1,
                     Title = "Fortune of Time",
                     Author = "Billy Spark",
-                    Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
+                    Description = "Praesent vitae sodales libero. Praesent molestie orci auguead, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
                     ISBN = "SWD9999001",
                     ListPrice = 99,
                     Price = 90,

@@ -29,12 +29,16 @@
       "PackagePath": "staticwebassets\\images\\product\\7d370ed3-d483-48a8-b3ea-aeec2454a7a7.jpg"
     },
     {
-      "Id": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9f70d516-6bba-4876-957e-f8b4d04d2363.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\9f70d516-6bba-4876-957e-f8b4d04d2363.jpg"
-    },
-    {
       "Id": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\ead16510-6953-40ba-9cc8-f9b0467179b1.jpg",
       "PackagePath": "staticwebassets\\images\\product\\ead16510-6953-40ba-9cc8-f9b0467179b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\fb8f5bac-0795-4098-958b-c403719d5ce0.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\fb8f5bac-0795-4098-958b-c403719d5ce0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
     },
     {
       "Id": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",

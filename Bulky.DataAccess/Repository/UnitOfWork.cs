@@ -15,6 +15,8 @@ namespace Bulky.DataAccess.Repository
         public ICategoryRepo Category { get; private set; }
 
         public IProductRepo Product { get; private set; }
+        public ICompanyRepo Company { get; private set; }
+
 
         public UnitOfWork(AppDbContext db)
         {
@@ -22,6 +24,7 @@ namespace Bulky.DataAccess.Repository
 
             Category = new CategoryRepo(_db);
             Product = new ProductRepo(_db);
+            Company = new CompanyRepo(_db);
         }
 
 
