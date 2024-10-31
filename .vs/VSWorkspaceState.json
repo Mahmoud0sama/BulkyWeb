@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BulkyWeb",
+    "\\BulkyWeb\\Areas",
+    "\\BulkyWeb\\Areas\\Customer",
+    "\\BulkyWeb\\Areas\\Customer\\Controllers"
   ],
-  "SelectedNode": "\\Bulky.sln",
+  "SelectedNode": "\\BulkyWeb\\Areas\\Customer\\Controllers\\CartController.cs",
   "PreviewInSolutionExplorer": false
 }

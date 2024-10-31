@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\BulkyWeb.csproj": {}
+    "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
+    "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
         "projectName": "Bulky.DataAccess",
-        "projectPath": "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+        "projectPath": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
         "packagesPath": "C:\\Users\\mtsid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mtsid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
-                "projectPath": "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
+              "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj": {
+                "projectPath": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj"
               },
-              "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
-                "projectPath": "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj"
+              "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj": {
+                "projectPath": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
+    "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+        "projectUniqueName": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj",
         "projectName": "Bulky.Models",
-        "projectPath": "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+        "projectPath": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj",
         "packagesPath": "C:\\Users\\mtsid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.Models\\obj\\",
+        "outputPath": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mtsid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
+    "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj",
         "projectName": "Bulky.Utility",
-        "projectPath": "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+        "projectPath": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj",
         "packagesPath": "C:\\Users\\mtsid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.Utility\\obj\\",
+        "outputPath": "C:\\Users\\mtsid\\Source\\Repos\\BulkyWeb\\Bulky.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mtsid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -220,14 +220,14 @@
         }
       }
     },
-    "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\BulkyWeb.csproj": {
+    "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+        "projectUniqueName": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
         "projectName": "BulkyWeb",
-        "projectPath": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+        "projectPath": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
         "packagesPath": "C:\\Users\\mtsid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\obj\\",
+        "outputPath": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mtsid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -244,8 +244,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj"
+              "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj"
               }
             }
           }

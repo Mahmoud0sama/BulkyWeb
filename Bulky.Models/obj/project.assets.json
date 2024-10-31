@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+      "projectUniqueName": "C:\\Users\\mtsid\\Source\\Repos\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj",
       "projectName": "Bulky.Models",
-      "projectPath": "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+      "projectPath": "C:\\Users\\mtsid\\Source\\Repos\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj",
       "packagesPath": "C:\\Users\\mtsid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mtsid\\source\\repos\\Bulky\\Bulky.Models\\obj\\",
+      "outputPath": "C:\\Users\\mtsid\\Source\\Repos\\BulkyWeb\\Bulky.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mtsid\\AppData\\Roaming\\NuGet\\NuGet.Config",

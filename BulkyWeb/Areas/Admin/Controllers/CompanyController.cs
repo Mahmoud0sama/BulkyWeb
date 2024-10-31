@@ -91,7 +91,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
             _unitOfWork.Company.Remove(CompanyToBeDeleted);
             _unitOfWork.Save();
            
-            return Json(new { success = true, massege= "Delete Successful" });
+            return Json(new { success = true, message= "Delete Successful" });
         }
         #endregion
     }

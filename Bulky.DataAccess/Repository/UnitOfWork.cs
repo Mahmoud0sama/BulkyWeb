@@ -17,11 +17,16 @@ namespace Bulky.DataAccess.Repository
         public IProductRepo Product { get; private set; }
         public ICompanyRepo Company { get; private set; }
 
+        public IShoppingCartRepo ShoppingCart { get; private set; }
+
+        public IApplicationUserRepo ApplicationUser { get; private set; }
+
 
         public UnitOfWork(AppDbContext db)
         {
             _db = db;
-
+            ApplicationUser = new ApplicationUserRepo(_db);
+            ShoppingCart = new ShoppingCartRepo(_db);
             Category = new CategoryRepo(_db);
             Product = new ProductRepo(_db);
             Company = new CompanyRepo(_db);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ixzngbWHOn75/NnrITyCslhDh2aRfrDOURj0q39gTP2ZDZpCo8HWImBfF2dYCD+1PZ3cWtngKPjnoavb+e2EQ==",
+  "dgSpecHash": "hHD4EjEOh+0bpkxGHFaHbOsAaqtN88i3WvfVKxTEe//in/lkat8UqUKxBq5Zj5KLu7Lk/WXEAxa7cTx6efBoPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mtsid\\source\\repos\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+  "projectFilePath": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mtsid\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mtsid\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
