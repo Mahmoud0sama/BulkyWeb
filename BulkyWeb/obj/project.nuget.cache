@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hHD4EjEOh+0bpkxGHFaHbOsAaqtN88i3WvfVKxTEe//in/lkat8UqUKxBq5Zj5KLu7Lk/WXEAxa7cTx6efBoPA==",
+  "dgSpecHash": "I84CNIy9JrC3shm+RfaGr7hhQHvkud6W4gAPXRcIGj6Cn8h81vpkSDOV9o84cd+e9OOwiI1Sg2bK1gPzoh0jQg==",
   "success": true,
   "projectFilePath": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
   "expectedPackageFiles": [
@@ -139,6 +139,7 @@
     "C:\\Users\\mtsid\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
     "C:\\Users\\mtsid\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\mtsid\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\mtsid\\.nuget\\packages\\stripe.net\\41.19.0\\stripe.net.41.19.0.nupkg.sha512",
     "C:\\Users\\mtsid\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
     "C:\\Users\\mtsid\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
     "C:\\Users\\mtsid\\.nuget\\packages\\system.composition\\7.0.0\\system.composition.7.0.0.nupkg.sha512",

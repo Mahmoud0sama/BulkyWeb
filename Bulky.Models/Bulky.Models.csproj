@@ -7,8 +7,12 @@
   </PropertyGroup>
 
     <ItemGroup>
-		<FrameworkReference Include="Microsoft.AspNetCore.App"/>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
 	</ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Stripe.net" Version="41.19.0" />
+    </ItemGroup>
     	
       
 

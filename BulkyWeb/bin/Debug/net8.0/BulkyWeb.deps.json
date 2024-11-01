@@ -15,7 +15,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.10",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.10",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.6"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.6",
+          "Stripe.net": "41.19.0"
         },
         "runtime": {
           "BulkyWeb.dll": {}
@@ -1889,6 +1890,18 @@
           }
         }
       },
+      "Stripe.net/41.19.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3",
+          "System.Configuration.ConfigurationManager": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Stripe.net.dll": {
+            "assemblyVersion": "41.19.0.0",
+            "fileVersion": "41.19.0.0"
+          }
+        }
+      },
       "System.CodeDom/5.0.0": {
         "runtime": {
           "lib/netstandard2.0/System.CodeDom.dll": {
@@ -2171,20 +2184,25 @@
           "Bulky.Utility": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.10",
           "Microsoft.EntityFrameworkCore": "8.0.10",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10",
+          "Stripe.net": "41.19.0"
         },
         "runtime": {
           "Bulky.DataAccess.dll": {}
         }
       },
       "Bulky.Models/1.0.0": {
+        "dependencies": {
+          "Stripe.net": "41.19.0"
+        },
         "runtime": {
           "Bulky.Models.dll": {}
         }
       },
       "Bulky.Utility/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Identity.UI": "8.0.10"
+          "Microsoft.AspNetCore.Identity.UI": "8.0.10",
+          "Stripe.net": "41.19.0"
         },
         "runtime": {
           "Bulky.Utility.dll": {}
@@ -3142,6 +3160,13 @@
       "sha512": "sha512-PQ2Oq3yepLY4P7ll145P3xtx2bX8xF4PzaKPRpw9jZlKvfe4LE/saAV82inND9usn1XRpmxXk7Lal3MTI+6CNg==",
       "path": "sqlitepclraw.provider.e_sqlite3/2.1.6",
       "hashPath": "sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512"
+    },
+    "Stripe.net/41.19.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k8RKFpuD169cPiyQsUivfH5EcjbFBMNQYT2MRkPpzwZo1iHu5A1+jm6btzYUSUv4bC14wY8e19HpGmhDkt1Arg==",
+      "path": "stripe.net/41.19.0",
+      "hashPath": "stripe.net.41.19.0.nupkg.sha512"
     },
     "System.CodeDom/5.0.0": {
       "type": "package",

@@ -1,6 +1,7 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
     "\\BulkyWeb",
     "\\BulkyWeb\\Areas",
     "\\BulkyWeb\\Areas\\Customer",

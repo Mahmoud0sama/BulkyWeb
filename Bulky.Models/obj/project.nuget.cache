@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "uLD3xHbJMSUSBbjgY9FBJl/Owk73xNluXAGQCAAyNrSmx8XS8/JXz6OLQyf1UzvjOq1nJfK1JKadiGSGG2erkQ==",
+  "dgSpecHash": "qoLPPwpzhX+5g9gh9vtWp1yBZytv6SMPtBR3FDbkaX2dj0zvxaHk1St743qwg/dRWydoBPxquJxM/qvRR5MTGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mtsid\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\mtsid\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\mtsid\\.nuget\\packages\\stripe.net\\41.19.0\\stripe.net.41.19.0.nupkg.sha512",
+    "C:\\Users\\mtsid\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\mtsid\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\mtsid\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\mtsid\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\mtsid\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mtsid\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

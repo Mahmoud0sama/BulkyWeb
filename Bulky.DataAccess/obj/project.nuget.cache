@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "F4y006+TG7bitOQws3GtdrGTrw6RjE3M0bLFjmfel+Sk7oweB/hnRlfsl1LQGTCpDqLCOek5rNrnMuMb1GY3mA==",
+  "dgSpecHash": "2oySk0ez7GQpG4k9SVRJ1hLHDlbr4wg5djOyOxVFmhcB0kEw71r5LUly7eI7d16I6Ro/sICR5UJh6la/opiZog==",
   "success": true,
   "projectFilePath": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -54,6 +54,8 @@
     "C:\\Users\\mtsid\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\mtsid\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\mtsid\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\mtsid\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\mtsid\\.nuget\\packages\\stripe.net\\41.19.0\\stripe.net.41.19.0.nupkg.sha512",
     "C:\\Users\\mtsid\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\mtsid\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\mtsid\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",

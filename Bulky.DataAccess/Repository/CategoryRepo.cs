@@ -10,16 +10,20 @@ using System.Threading.Tasks;
 
 namespace Bulky.DataAccess.Repository
 {
-    public class ApplicationUserRepo : Repository<ApplicationUser>, IApplicationUserRepo
+    public class CategoryRepo : Repository<Category>, ICategoryRepo
     {
         private readonly AppDbContext _db;
 
-        public ApplicationUserRepo(AppDbContext db) : base(db)
+        public CategoryRepo(AppDbContext db) : base(db)
         {
             _db = db;
 
         }
+		public void Update(Category obj)
+		{
+			_db.Update(obj);
+		}
 
-      
-    }
+
+	}
 }
