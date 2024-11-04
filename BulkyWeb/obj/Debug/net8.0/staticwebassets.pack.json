@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\images\\Confirmation.jpg"
     },
     {
+      "Id": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\PaymentConfirmaion.png",
+      "PackagePath": "staticwebassets\\images\\PaymentConfirmaion.png"
+    },
+    {
       "Id": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\book.png",
       "PackagePath": "staticwebassets\\images\\book.png"
     },
@@ -47,6 +51,10 @@
     {
       "Id": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\company.js",
       "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
     },
     {
       "Id": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\product.js",
