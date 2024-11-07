@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5hLeNUpaXikwbQrTd1MZ19v3FN9HlHtutvPVE4QQHyM=",
+  "Hash": "vTFWZ17C6qqW1WoRKGVDGAveWIsIX9zOrVRS1Gu0Y9w=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1252,12 +1252,12 @@
       "OriginalItemSpec": "wwwroot\\images\\book.png"
     },
     {
-      "Identity": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Confirmation.jpg",
+      "Identity": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Confirmation.png",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/Confirmation.jpg",
+      "RelativePath": "images/Confirmation.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1268,26 +1268,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Confirmation.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\PaymentConfirmaion.png",
-      "SourceId": "BulkyWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\",
-      "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/PaymentConfirmaion.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\PaymentConfirmaion.png"
+      "OriginalItemSpec": "wwwroot\\images\\Confirmation.png"
     },
     {
       "Identity": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\product\\7a089549-af59-4266-8853-e4c515e48376.jpg",

@@ -1,6 +1,8 @@
 using Bulky.DataAccess.Repository.IRepository;
 using Bulky.Models;
+using Bulky.Utility;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using System.Security.Claims;
@@ -21,7 +23,8 @@ namespace BulkyWeb.Areas.Customer.Controllers
 
         public IActionResult Index()
         {
-            IEnumerable<Product> productList = _unitOfWork.Product.GetAll(includeProperties:"Category");
+			
+			IEnumerable<Product> productList = _unitOfWork.Product.GetAll(includeProperties:"Category");
             return View(productList);
         }
 		public IActionResult Details(int productId)
@@ -38,8 +41,8 @@ namespace BulkyWeb.Areas.Customer.Controllers
         [Authorize]
         public IActionResult Details(ShoppingCart shoppingCart)
         {
-            var clamisIdentity = (ClaimsIdentity)User.Identity;
-            var userId = clamisIdentity.FindFirst(ClaimTypes.NameIdentifier).Value;
+            var claimsIdentity = (ClaimsIdentity)User.Identity;
+            var userId = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier).Value;
             shoppingCart.ApplicationUserId=userId;
 
             ShoppingCart CartFromDb = _unitOfWork.ShoppingCart.Get(u=> u.ApplicationUserId==userId && u.ProductId==shoppingCart.ProductId);
@@ -47,14 +50,18 @@ namespace BulkyWeb.Areas.Customer.Controllers
             {
                 CartFromDb.Count += shoppingCart.Count;
                 _unitOfWork.ShoppingCart.Update(CartFromDb);
-            }
+				_unitOfWork.Save();
+			}
             else
             {
                 _unitOfWork.ShoppingCart.Add(shoppingCart);
+				_unitOfWork.Save();
+				HttpContext.Session.SetInt32(SD.SessionCart, _unitOfWork.ShoppingCart.
+                    GetAll(u => u.ApplicationUserId == userId).Count());
             }
             TempData["success"] = "Cart updated successfully";
             
-            _unitOfWork.Save();
+           
             return RedirectToAction(nameof(Index));
         }
 

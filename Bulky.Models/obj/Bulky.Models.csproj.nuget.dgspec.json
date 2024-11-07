@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Facebook": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Stripe.net": {
               "target": "Package",
               "version": "[41.19.0, )"

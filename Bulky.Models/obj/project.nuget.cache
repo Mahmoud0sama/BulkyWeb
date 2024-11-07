@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qoLPPwpzhX+5g9gh9vtWp1yBZytv6SMPtBR3FDbkaX2dj0zvxaHk1St743qwg/dRWydoBPxquJxM/qvRR5MTGA==",
+  "dgSpecHash": "kIfVXTBd0OF9b7wJx0Vh7ya3eclWHdkZBB3RXJOqoh9cyAEgpRc+3gTs6glYH0+6pb7kxcfr2J/iM28bXUknig==",
   "success": true,
   "projectFilePath": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\Bulky.Models\\Bulky.Models.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mtsid\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\8.0.10\\microsoft.aspnetcore.authentication.facebook.8.0.10.nupkg.sha512",
     "C:\\Users\\mtsid\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\mtsid\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\mtsid\\.nuget\\packages\\stripe.net\\41.19.0\\stripe.net.41.19.0.nupkg.sha512",

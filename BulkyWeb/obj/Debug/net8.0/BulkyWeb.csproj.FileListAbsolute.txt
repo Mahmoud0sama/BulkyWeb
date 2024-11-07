@@ -597,3 +597,4 @@ C:\Users\mtsid\source\repos\BulkyWeb\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\
 C:\Users\mtsid\source\repos\BulkyWeb\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\mtsid\source\repos\BulkyWeb\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\mtsid\source\repos\BulkyWeb\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\mtsid\source\repos\BulkyWeb\BulkyWeb\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Facebook.dll

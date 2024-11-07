@@ -10,6 +10,7 @@
         "dependencies": {
           "Bulky.Models": "1.0.0",
           "Bulky.Utility": "1.0.0",
+          "Microsoft.AspNetCore.Authentication.Facebook": "8.0.10",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.10",
           "Microsoft.EntityFrameworkCore": "8.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10",
@@ -59,6 +60,14 @@
           "lib/net6.0/Humanizer.dll": {
             "assemblyVersion": "2.14.0.0",
             "fileVersion": "2.14.1.48190"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Facebook/8.0.10": {
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.Authentication.Facebook.dll": {
+            "assemblyVersion": "8.0.10.0",
+            "fileVersion": "8.0.1024.46804"
           }
         }
       },
@@ -1001,6 +1010,7 @@
       },
       "Bulky.Models/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Authentication.Facebook": "8.0.10",
           "Stripe.net": "41.19.0"
         },
         "runtime": {
@@ -1009,6 +1019,7 @@
       },
       "Bulky.Utility/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Authentication.Facebook": "8.0.10",
           "Microsoft.AspNetCore.Identity.UI": "8.0.10",
           "Stripe.net": "41.19.0"
         },
@@ -1044,6 +1055,13 @@
       "sha512": "sha512-lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.Facebook/8.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5DfD0jmqYUEFSmIuZOLFm1QG5Oy55tp3vPaVOKaBs9aX270BONJjO6rXxNjZkDaHJ1GiGQMhCGoF2tK4zJedtA==",
+      "path": "microsoft.aspnetcore.authentication.facebook/8.0.10",
+      "hashPath": "microsoft.aspnetcore.authentication.facebook.8.0.10.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/8.0.10": {
       "type": "package",

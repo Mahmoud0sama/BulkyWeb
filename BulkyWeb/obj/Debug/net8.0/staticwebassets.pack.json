@@ -13,12 +13,8 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Confirmation.jpg",
-      "PackagePath": "staticwebassets\\images\\Confirmation.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\PaymentConfirmaion.png",
-      "PackagePath": "staticwebassets\\images\\PaymentConfirmaion.png"
+      "Id": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Confirmation.png",
+      "PackagePath": "staticwebassets\\images\\Confirmation.png"
     },
     {
       "Id": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\book.png",
