@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vTFWZ17C6qqW1WoRKGVDGAveWIsIX9zOrVRS1Gu0Y9w=",
+  "Hash": "U6aEzapDe5CcMR0rK2xl4LdY2ZqfAVssdOvgswM+B9s=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1459,6 +1459,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\User.js",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "js/User.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\User.js"
     },
     {
       "Identity": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\images\\product\\f8ac8891-7775-4e3f-b3c0-581580249ec6.jpg"
     },
     {
+      "Id": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\User.js",
+      "PackagePath": "staticwebassets\\js\\User.js"
+    },
+    {
       "Id": "C:\\Users\\mtsid\\source\\repos\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\company.js",
       "PackagePath": "staticwebassets\\js\\company.js"
     },
