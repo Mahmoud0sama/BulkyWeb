@@ -23,6 +23,8 @@ namespace Bulky.DataAccess.Repository
         public IOrderHeaderRepo OrderHeader { get; private set; }
         public IOrderDetailRepo OrderDetail { get; private set; }
 
+        public IProductImageRepo ProductImage { get; private set; }
+
 
         public UnitOfWork(AppDbContext db)
         {
@@ -34,6 +36,7 @@ namespace Bulky.DataAccess.Repository
             Company = new CompanyRepo(_db);
             OrderHeader = new OrderHeaderRepo(_db);
             OrderDetail = new OrderDetailRepo(_db);
+            ProductImage = new ProductImageRepo(_db);
         }
 
 
